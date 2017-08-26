@@ -1,6 +1,6 @@
-# hello_flutter
+# Shopping List 
 
-A new Flutter project.
+A simple shopping list.
 
 ## Getting Started
 

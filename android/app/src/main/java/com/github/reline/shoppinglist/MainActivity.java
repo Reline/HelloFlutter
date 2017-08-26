@@ -1,4 +1,4 @@
-package com.yourcompany.helloflutter;
+package com.github.reline.shoppinglist;
 
 import android.os.Bundle;
 

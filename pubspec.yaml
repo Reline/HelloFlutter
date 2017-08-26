@@ -1,5 +1,5 @@
-name: hello_flutter
-description: A new Flutter project.
+name: shopping_list
+description: A simple shopping list.
 
 dependencies:
   flutter:
